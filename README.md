@@ -16,3 +16,7 @@ Since you are here, I guess you are curious who I am, don't you :sunglasses: ? L
 - ⚡ Fun fact:
   - My name is not pronounced as a kind of transportation :joy: It sounds more like "Trump" :exploding_head:. Don't get me wrong, it's nothing relating to politics or personal interests :grin:
   - I'm a woman in Tech :sunglasses:
+  
+ - Yearly Statistic:
+ 
+![Asian Tram's github stats](https://github-readme-stats.vercel.app/api?username=AsianTram&show_icons=true&theme=radical)
