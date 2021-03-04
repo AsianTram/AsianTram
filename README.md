@@ -1,8 +1,8 @@
 ### Hi there 👋 Tram Nguyen's here
 
-Since you are here, I guess you are curious who I am, don't you :sunglasses: ? Let me save you some of your stalking time (oops :stuck_out_tongue_closed_eyes: , I mean analyzing time) with my basic information.
+Since you are here, I guess you are curious of who I am, aren't you :sunglasses: ? Let me save you some of your stalking time (oops :stuck_out_tongue_closed_eyes: , I mean analyzing time) with my basic information.
 - I'm from :vietnam: and currently living in :finland:
-- :school: Studing: Business Information Technology in LAB University of Applied Sciences (BBA)
+- :school: Graduated: Business Information Technology in LAB University of Applied Sciences (BBA)
 - 🔭 I’m currently working on:
   - MERN stack (MongoDB - ExpressJs - ReactJS (Redux) - NodeJS
   - NestJS/TypeORM
